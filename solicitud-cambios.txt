@@ -1,0 +1,13 @@
+------------------------------------------------------------------------------------------------------------------------------------------- 
+			CONTROL SOLICITUD DE CAMBIOS
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+
+#Nro. Control de solicitud de cambio: 32432432
+Solicitante del cambio: Agregar codigo fuente del proyecto de Servicio en Linea.
+Área afectada: Servicio en linea
+Categoría del cambio: Subida de archivos 
+Descripción: 
+Responsable de la solicitud del cambio: Stalin
+Autor del cambio: William Oleaga
+-------------------------------------------------------------------------------------------------------------------------------------------
